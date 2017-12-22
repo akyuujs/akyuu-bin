@@ -1,6 +1,6 @@
 {
   "name": "akyuu-bin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI tool for Akyuu.js.",
   "main": "index.js",
   "bin": {
