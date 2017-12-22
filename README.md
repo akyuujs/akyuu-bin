@@ -52,8 +52,8 @@ CLI tool for Akyuu.js.
 {
   ...
   scripts: {
-    "start": "akyuu-pm start",
-    "stop": "akyuu-pm stop"
+    "start": "akyuu-bin start",
+    "stop": "akyuu-bin stop"
   }
   ...
 }
